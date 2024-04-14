@@ -1,0 +1,24 @@
+{
+  "name": "restapis",
+  "version": "1.0.0",
+  "description": "finpro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennyherlambang27/restfullapi1.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "dennyherlambang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennyherlambang27/restfullapi1/issues"
+  },
+  "homepage": "https://github.com/Dennyherlambang27/restfullapi1#readme"
+}
